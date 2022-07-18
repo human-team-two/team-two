@@ -60,6 +60,10 @@ public class Monster{
         
     }
 
+    public void drop(){
+
+    }
+
 
 
     
